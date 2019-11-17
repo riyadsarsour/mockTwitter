@@ -1,0 +1,76 @@
+html{
+    background-color: rgb(8, 38, 63);
+}
+body{
+    color: blanchedalmond;
+}
+
+#header{
+    text-align: center;
+    padding-bottom: 10px;
+    color: rgb(89, 186, 224);
+}
+.title{
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: 100;
+    text-decoration: underline whitesmoke;
+}
+.refreshButton, .newTweetButton{
+    padding-top: 2px;
+    padding-bottom: 5px;
+}
+.refreshButton:hover, .newTweetButton:hover{
+    background-color: skyblue;
+}
+#feed{
+    text-align: center;
+}
+
+#mainPage{
+    border-width: 2px;
+    border-color:snow ;
+}
+
+.singleTweet{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    border: 2px outset whitesmoke;
+    box-sizing: border-box;
+    width: 50% ;
+    margin-left: 25%;
+    background-color: rgb(13, 66, 110);;
+}
+
+.button{
+    padding-top: 0px;
+    height: 15px;
+    margin-bottom: 15px;
+}
+
+.button:hover{
+    background-color: rgb(84, 175, 211);
+    color: whitesmoke;
+    border: 0px inset;
+}
+
+.likeButton:hover{
+    background-color: rgb(84, 175, 211);
+}
+.likeButton{
+    background-color: white;
+}
+
+.unlikeButton{
+    background-color: rgb(231, 116, 116);
+}
+
+.unlikeButton:hover{
+    background-color: white;
+    color: rgb(84, 175, 211);
+}
+
+.deleteButton:hover{
+    background-color: darkred;
+    color: whitesmoke;
+}
