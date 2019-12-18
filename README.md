@@ -6,5 +6,4 @@ Any copying of this code is an Honor Court Violation. SO DON'T DO IT
 
 
 #Screenshot of Interface
-![Image of Interface]
-(https://github.com/riyadsarsour/mockTwitter/blob/master/twitter-screenshot.png)
+![Image of Interface](https://github.com/riyadsarsour/mockTwitter/blob/master/twitter-screenshot.png)
